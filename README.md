@@ -32,7 +32,7 @@ TEAM MEMBERS: <br>
    4.Gayathri I <br>
    Reg no : 20me011 <br>
    Mechanical Engineering <br>
-   sri eshwar college of engineering   <br>
+   sri eshwar college of engineering <br>
 
    
 
