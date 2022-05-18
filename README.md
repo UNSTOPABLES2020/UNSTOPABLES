@@ -19,7 +19,6 @@ TEAM MEMBERS:<br>
   20IT025 <br>
   IT dept
 
-<<<<<<< HEAD
    
 
 
@@ -42,8 +41,6 @@ TEAM MEMBERS: <br>
 
    
 
-=======
->>>>>>> 4f2c988daaffdab8198ce9382a87ebc8eff8f39b
 =======
   4.Gayathri I <br>
   Reg no : 20me011 <br>
