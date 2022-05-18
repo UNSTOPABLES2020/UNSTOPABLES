@@ -1,0 +1,44 @@
+#topic
+{
+    margin: 20px 5px 0px 380px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px 20px 20px 20px;
+    width: 700px;
+    height: 100px;
+
+}
+#picture
+{
+    margin: -433px -6px -48px -1350px;
+    text-align: center;
+    
+    padding: 20px 50px 20px 50px;
+    width: 630px;
+    height: 388px;
+
+}
+#discription
+{
+    margin: 50px 120px 50px 720px;
+    text-align: center;
+    background-color: rgb(163, 241, 167);
+    padding: 20px 50px 20px 50px;
+    width: 600px;
+    height: 350px;
+
+
+}
+#description2
+{
+   
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(231, 245, 248);
+   padding: 10px 10px 10px;
+   margin:10px 500px 10px 500px
+
+}
+#photo2
+{
+text-align: center;
+}

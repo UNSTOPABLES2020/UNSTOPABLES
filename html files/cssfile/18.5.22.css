@@ -3,5 +3,20 @@ h2
     background-color: rgb(158, 232, 232);
     text-shadow: 2px 5px 20px black;
     color: rgb(189, 16, 16);
-   
+
+    padding: 20px 20px 20px 20px ;
+    margin: 20px 500px 20px;
+    text-align: center;
+
+}
+
+#MAD
+{
+    
+    text-shadow: 2px 5px 20px black;
+    color: rgb(32, 21, 27);
+
+    padding: 20px 20px 20px 20px ;
+    margin: 30px 30px 30px;
+
 }
