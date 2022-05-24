@@ -1,0 +1,11 @@
+img {
+    width: 700px;
+
+}
+#from-search{
+    width: 400px;
+    top: 20;
+    margin-top: 20%;
+    line-height: 32px;
+    padding: 20px 10px;
+}

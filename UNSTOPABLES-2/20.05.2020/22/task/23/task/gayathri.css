@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.BLUSH BLOOM{
+    position: absolute;
+    right: 0;
+    width: 100;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: ;
+    color:#fff;
+    z-index: 2;
+}
+.BLUSH_BLOOM header{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 100%;
+    padding: 40px 100px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.text ul{
+    position: absolute;
+    top: 600px;
+    left: 900px;
+}
+.designing{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: url();
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    cursor: pointer;
+}
+.designing.active{
+    background: url();
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: center;
+}
+.BLUSH & BLOOM{
+    position: absolute;
+    top: 100;
+    left: 100;
+    width: 100%;
+    height: 200%;
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+.bloom{
+    margin-bottom: 300px;
+    top: 20;
+    height: 100%;
+    width: 100%;
+}
+
+.video{
+    
+}
