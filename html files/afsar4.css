@@ -1,0 +1,57 @@
+#head1{
+    
+    text-align: center;
+    width:fit-content;
+    margin-left:800px;
+    font-weight: 100;
+    font-family:fantasy;
+    margin-top: 45px;
+}
+.twitter  {
+    margin-top: 90px;
+    margin-left:850px;
+    width:90px;
+    border-radius:150px;
+    height:90px;
+}
+
+
+.placeholder {
+    padding-top:15px;
+    margin-left:680px;
+    margin-top:27px;
+    padding-bottom:15px;
+    border-style:groove;
+    
+}
+
+.pass {
+    margin:35px 0px 0px 680px;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-style: groove;
+    
+}
+
+.but{
+    margin-left:680px;
+    margin-top:30px;
+    width:480px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-size: large;
+    background-color:rgb(60, 180, 255);
+    border-radius: 20px;
+    color: white;
+}
+
+.for{
+    margin-left: 865px;
+    color:rgb(38, 168, 248);
+    margin-bottom:7px;
+    width: fit-content;
+    margin-top:30px;
+    font-family: fantasy;
+}
+
+
