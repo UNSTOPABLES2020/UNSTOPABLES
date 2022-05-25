@@ -1,0 +1,99 @@
+#box
+{
+    background-color: antiquewhite;
+   width: 200px;
+}
+body
+{
+   
+    background-image:url("https://in.koppr.com/wp-content/uploads/2020/06/Top-things-to-know-about-Stock-Market-Trading-1080x675.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+#profilephoto
+{
+   
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align:center;
+
+    margin: 20px 20px -20px 700px;
+    background-color: rgb(139, 180, 216);
+}
+#img
+{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(227, 228, 242);
+    margin: 20px 30px 20px 1420px;
+}
+#fingerlogo
+{
+    width: 33px;
+    height: 33px;
+    margin-bottom: -10px;
+}
+#username
+{
+    margin-top: 4%;
+    text-align: center;
+}
+#usercode
+{
+    text-align: center;
+    margin: 20px 20px 20px;
+}
+#totpbox
+{
+    border-color: rgb(196, 205, 212);
+    text-align: center;
+    margin:20px 20px  20px 670px;
+
+}
+#fingerprint
+{
+    border-width: 10px 10px 10xp;
+    border-color: black;
+   
+    color: rgb(120, 208, 227);
+    margin:20px 20px  20px 500px;
+    width: 500px;
+    text-align: center;
+    font-size: large;
+}
+#switchaccount
+{
+ color:rgb(120, 208, 227);
+text-align: left;
+margin:20px 20px  20px 620px;
+font-size: medium;
+
+}
+#forgotpass
+{
+    color: blue;
+    text-align: right;
+    margin: -37px 620px 20px 20px;
+font-size: medium;
+}
+#img2
+{
+
+    width: 20px;
+    height: 20px;
+    margin-bottom: -5px;
+}
+#compname
+{
+    margin-top: 150px;
+    color: rgba(163, 165, 168, 0.903);
+    text-align: left;
+}
+#descriptionname
+{
+color: rgba(163, 165, 168, 0.903);
+text-align:left;
+}
