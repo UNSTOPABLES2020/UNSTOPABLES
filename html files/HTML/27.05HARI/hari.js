@@ -43,7 +43,7 @@ function loginvalue()
         }
         else
         {
-            document.getElementById("dob1").innerHTML="login suscess"
+            document.getElementById("dob1").innerHTML="login failed"
         }
 
     }
