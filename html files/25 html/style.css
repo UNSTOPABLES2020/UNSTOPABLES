@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-bar
+{
+    background: linear-gradient(red,blue);
+   
+}
+
+h1{
+    color: rgb(159, 159, 203);
+}
+ul li{
+
+
+
+
+    display: inline-block;
+    list-style-type: none;
+    width: 20px;
+    margin: 30px;
+    text-justify: auto;
+    cursor:copy;
+    
+}
+#list:hover{
+    color: bisque;
+}
+#list:active
+{
+    background-color: lightcoral;
+}
+.logo
+{
+width: 30px;
+height: 30px;
+}
+div ul{
+    position:fixed;
+    margin-left: 900px;
+    margin-top: -100px;
+    font: 15px black small-caps;
+    width: 600px;
+    
+}
+#background
+{
+   
+    opacity: 50%;
+   
+}
