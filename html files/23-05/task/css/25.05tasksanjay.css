@@ -32,6 +32,18 @@
     align-self: auto;
 }
 
+.header ul li:hover {
+    color: rgb(62, 7, 190);
+    font-size: 20px;
+    animation-delay: 2s;
+}
+
+.images1 ul img8 {
+    display: flex;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
 .slide1 {
     display: flex;
     color: whitesmoke;
@@ -73,6 +85,27 @@
     margin-left: 80px;
 }
 
+.images1 ul li {
+    display: flex;
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.img1txt ul li {
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-right: 35px;
+    margin-left: 35px;
+    color: rgb(161, 160, 160);
+}
+
+.images1 image1-8 {
+    margin-right: 0px;
+}
+
 .endimage {
     margin-left: 120px;
     border-radius: 5%;
@@ -100,9 +133,16 @@
 }
 
 #icon {
-    padding-right: 400px;
-    margin-top: 100px;
-    margin-left:1050px;
+    padding-right: 100px;
+    margin-right: 200px;
+    margin-top: 60px;
+    margin-left: 940px;
+    border-radius: 25%;
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    font-size: 18px;
+    padding-bottom: 10px;
 }
 
 #end {
@@ -110,7 +150,7 @@
     text-align: center;
     font-weight: bold;
     color: gray;
-    padding-bottom:15px;
+    padding-bottom: 15px;
     background-color: rgb(244, 248, 248);
 }
 
