@@ -1,0 +1,19 @@
+.login {
+    border: solid rgb(219, 6, 123) 7px;
+    margin-right: 300px;
+    margin-top: 150px;
+    margin-left: 300px;
+    align-items: center;
+    padding-bottom: 100px;
+    background-color: rgb(241, 240, 240);
+}
+
+.login h1 {
+    font-size: 20px;
+    color: rgb(139, 137, 137);
+    text-align: center;
+}
+
+.login login1 {
+    background-color: royalblue;
+}
