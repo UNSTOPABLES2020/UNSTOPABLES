@@ -1,0 +1,30 @@
+.crow-img {
+    display: flex;
+    width: 400px;
+}
+
+.head {
+    font-size: 30px;
+    color: gray;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (min-width:320px) and (max-width:479px) {
+    .content {
+        display: flex;
+        margin-left: 50px;
+        align-content: center;
+        background-color: aquamarine;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    .image {
+        width: 300px;
+    }
+}

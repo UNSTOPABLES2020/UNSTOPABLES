@@ -1,0 +1,19 @@
+* {
+    display: flex;
+    border: 0px;
+}
+
+.cards {
+    border-radius: 1px;
+    border-color: aqua;
+    width: 200px;
+    height: 250px;
+}
+
+.profile {
+    width: 40%;
+    width: 75%;
+    align-items: center;
+    box-shadow: 2px 2px 2px 4px rgb(54, 52, 52);
+    margin-bottom: 20px;
+}
