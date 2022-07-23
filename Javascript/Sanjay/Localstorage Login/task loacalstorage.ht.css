@@ -1,0 +1,24 @@
+.page p {
+    color: yellowgreen;
+}
+
+#username,
+#pass {
+    border-radius: 5%;
+}
+
+.page {
+    display: block;
+    margin-top: 10%;
+    border: solid 1px;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+#button {
+    background-color: rgba(148, 204, 35, 0.7);
+    align-items: center;
+}
