@@ -1,0 +1,15 @@
+    .navbar 
+    { display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        font-size: 20px;
+        background: rgb(117, 185, 117);
+        height: 50px;
+    }
+    .navbar a
+    {
+        text-decoration: none;
+        text-transform: uppercase;    
+        color: rgb(12, 10, 10);
+
+    }

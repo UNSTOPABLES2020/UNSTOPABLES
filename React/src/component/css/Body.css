@@ -1,0 +1,15 @@
+.bodystyle 
+{
+    margin-top: 20px;
+    color: rgb(25, 24, 27);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 100px;
+    background: rgb(237, 132, 132);
+}
+.bodystyle  h1{
+    text-transform: uppercase;
+}
+.bodystyle  p{
+    text-transform: capitalize;
+}
