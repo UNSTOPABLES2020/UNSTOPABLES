@@ -1,0 +1,25 @@
+*
+{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* width: 60px; */
+        height:200px;
+        border: black, 2px ,solid;
+        border: 2px black solid;
+       margin: 0 150px;
+       flex-direction: column;
+       gap: 20px;
+       margin-top: 15%;
+    }
+    input.username {
+        background: #b3eeb3;
+        text-align: center;
+        height: 30px;
+    }
+  
