@@ -1,0 +1,36 @@
+body
+{    z-index: 2;
+    height: 100vh;
+    background:linear-gradient(rgb(255, 167, 170),rgb(157, 220, 247))
+}
+#login-box
+{  width:60vh;
+   position: relative;
+   height: 70vh; 
+    left: 550px;
+    top: 100px;
+    border: 2px  solid black;
+    background:linear-gradient(rgb(157, 220, 247),rgb(217, 175, 240)) ;
+    
+    
+
+  
+}
+#inside
+{    font-size: large;
+    font-weight: 300;
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    padding: 20px;
+}
+#sece01,#sece02,#sece03,#sece04
+
+{
+    padding: 10px;
+    margin: 10px;
+}
+#sece02
+{
+    margin-left: 25px;
+}

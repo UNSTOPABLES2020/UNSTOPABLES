@@ -1,0 +1,153 @@
+
+.body
+{  background-color: #fff;
+}
+*
+{
+  margin-top: 50;
+    padding: 0;
+    position: relative ;
+}
+.header
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    
+
+}
+.tot
+{
+    display: flex;
+    position: absolute;
+    left: 120px;
+    top: 100px;
+   
+}
+.one,.afsar,.gayathiri,.hari
+{
+    justify-content: space-between;
+    margin: 10px;
+    background: linear-gradient(rgb(136, 218, 159),rgb(143, 111, 217));
+    border-radius: 15px;
+    height: 450px;
+    width: 300px;
+    align-content: center;
+position: relative;
+text-align: center;
+border: solid 2px black;
+}
+.one img 
+{
+    height: 100px;
+    width:100px;
+    border: 3px solid #000;
+position: absolute;
+left:100px;
+top:20px;
+    border-radius: 50%;
+}
+ .sanjay2{
+     
+    color: #000;
+    position: absolute;
+    top:130px;
+    left: 120px;
+}
+.afsar img 
+{
+    height: 100px;
+    width:100px;
+position: absolute;
+   left:100px;
+   top:20px;
+    border-radius: 50%;
+    border: 3px solid #000;
+}
+ .afsar2 {
+     
+    color: #000;
+    position: absolute;
+    top:130px;
+    left: 92px;
+}
+.gayathiri img 
+{
+    height: 100px;
+    width:100px;
+position: absolute;
+   left:100px;
+   top:20px;
+    border-radius: 50%;
+    border: 3px solid #000;
+}
+ 
+.gaya{
+     
+    color: #000;
+    position: absolute;
+    top:120px;
+    left: 120px;
+}
+.hari img 
+{
+    height: 100px;
+    width:100px;
+position: absolute;
+   left:100px;
+   top:20px;
+    border-radius: 50%;
+     border: 3px solid #000;
+}
+ 
+.hari2{
+     
+    color:#000;
+    position: absolute;
+    top:120px;
+    left: 132px;
+}
+
+.hari3{
+     
+    color: #000;
+    position: absolute;
+    left: 30px;
+    top:160px;
+    text-align: left;
+
+    
+}
+.gaya3{
+     
+    color: #000;
+    position: absolute;
+    left: 30px;
+    top:160px;
+    text-align: left;
+  
+
+    
+}
+.afsar3{
+     
+    color: #000;
+    position: absolute;
+    left: 10px;
+    top:136px;
+    text-align: left;
+    
+
+    
+}
+.sanjay3{
+     
+    color: #000;
+    position: absolute;
+    left: 30px;
+    top:150px;
+    text-align: left;
+ 
+
+    
+}
